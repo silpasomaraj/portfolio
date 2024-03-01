@@ -71,7 +71,7 @@ export const skills = [
       id: 0,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPYTNQXsCBtw-EG9l0apX7zfB6qAOl8LZBbFOlr-qCy3PxM5FwdcWz4XfKFDspsKwA8wo&usqp=CAU",
       school: "College Of Engineering Chengannur",
-      date: "Oct 2016 - Sep 2020",
+      date: "2016 -2020",
       grade: " 72.3 %",
       desc: "",
       degree: "Bachelor of Technology - BTech, Electrical and Electronics Engineering",

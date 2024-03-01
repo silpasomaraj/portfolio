@@ -40,19 +40,22 @@ function Contact() {
     <section id='contactPage'>
     <div id='contact'>
         <h1 className='contactTitle'>Contact Me</h1>
-        <span className='contactDes'>please fill out the form to discuss</span>
+        <span className='contactDes'>please fill out the form to connect</span>
         <form className='contactForm' ref={form} onSubmit={sendEmail}>
             <input type="text" className='name' placeholder='your name' name='your_name'/>
             <input type="email" className='email' placeholder='enter email'name='your_email' />
             <textarea  className='msg'name="message" rows="5" placeholder='your message'></textarea>
             <button type='submit'  value='Send'className='submitBtn'>Submit</button>
             <div className="links">
-                <img src={fb}alt="" className="link"  />
-               
+              <a href="https://github.com/silpasomaraj" target='_blank'><img src={tw}alt="" className="link"  /></a>
+              <a href="https://www.instagram.com/_silu____/"target='_blank'><img src={twte}alt="" className="link" /></a>
+              <a href="www.linkedin.com/in/silpa-s-34a139171" target='_blank'>
+                <img src={twtee}alt="" className="link" /></a>
+              
+             
                 
-                <img src={tw}alt="" className="link" />
-                <img src={twte}alt="" className="link" />
-                <img src={twtee}alt="" className="link" />
+
+
                 
             </div>
         </form>

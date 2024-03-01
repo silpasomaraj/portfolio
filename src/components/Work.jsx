@@ -21,7 +21,7 @@ function Work() {
 
     <section id='works'>
        <h2 className='worktitle'>My projects</h2>
-       <span className='workdesk'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam numquam veniam soluta quaera.</span>
+       
        
         <div className='projectContainer'>
         {WorkCardData.map((val,ind)=>{

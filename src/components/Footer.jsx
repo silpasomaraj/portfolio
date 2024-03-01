@@ -4,7 +4,7 @@ import './Footer.css'
 function Footer() {
   return (
    <footer className='footer'>
-    Copyright © 2023 Portfolio. Built with React.
+    Copyright © 2024 Portfolio. Built with React.
 
    </footer>
   )

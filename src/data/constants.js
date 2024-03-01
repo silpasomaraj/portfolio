@@ -69,7 +69,7 @@ export const skills = [
   export const education = [
     {
       id: 0,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPYTNQXsCBtw-EG9l0apX7zfB6qAOl8LZBbFOlr-qCy3PxM5FwdcWz4XfKFDspsKwA8wo&usqp=CAU",
       school: "College Of Engineering Chengannur",
       date: "Oct 2016 - Sep 2020",
       grade: " 72.3 %",
@@ -78,7 +78,7 @@ export const skills = [
     },
     {
       id: 1,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+      img: "https://i.pinimg.com/564x/d3/0e/8e/d30e8e6e761269374d58af11f3ed7828.jpg",
       school: "Govt.Hss Chunakkara",
       date: "2013 - 2015",
       grade: "93 %",
@@ -87,7 +87,7 @@ export const skills = [
     },
     {
       id: 2,
-      img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+      img: "https://play-lh.googleusercontent.com/B4Ezr6HftgHiBPJibbE491osIs-XjwYAPFqkSy-Kr4v4BesgjBYaMG_dZBZcTTRhn50",
       school: "Cherupushpa Bethany Senior Secondary School",
       date: "2013",
       grade: "9.6 CGPA",

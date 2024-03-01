@@ -34,6 +34,7 @@ function Navbar() {
              
               <Link activeClass ='active' to='works' spy= {true} smooth={true} offset={-100} duration={500} className="listItem" onClick={()=>(false)} >Project</Link>
               <Link activeClass ='active' to='skills' spy= {true} smooth={true} offset={-100} duration={500}className="listItem" onClick={()=>(false)} >Skills</Link>
+              <Link activeClass ='active' to='Education' spy= {true} smooth={true} offset={-100} duration={500}className="listItem"  onClick={()=>(false)}>Education</Link>
               <Link activeClass ='active' to='contact' spy= {true} smooth={true} offset={-100} duration={500}className="listItem"  onClick={()=>(false)}>Contact</Link>
          </div>
     </nav>

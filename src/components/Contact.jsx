@@ -51,11 +51,6 @@ function Contact() {
               <a href="https://www.instagram.com/_silu____/"target='_blank'><img src={twte}alt="" className="link" /></a>
               <a href="www.linkedin.com/in/silpa-s-34a139171" target='_blank'>
                 <img src={twtee}alt="" className="link" /></a>
-              
-             
-                
-
-
                 
             </div>
         </form>

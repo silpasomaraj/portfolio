@@ -17,10 +17,7 @@ function Intro() {
         <div className="introcontent">
              <span className='hello'>Hello,</span>
              <span className='introText'>I'm <span className='introName'>SILPA S</span> <br />Full Stack Developer</span>
-             <p className='introPara'>I am a skilled web developer and  i'm very passionate and dedicated to my work. </p>
-             
-             
-             
+             <p className='introPara'>I am a skilled web developer and  i'm very passionate and dedicated to my work. </p> 
              <Link href=''><button onClick={() => window.open(pdf)} className='btn'><img src={btnImg} alt=""  className='btnImage' />Hire me</button></Link>
          </div>
 

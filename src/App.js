@@ -2,7 +2,7 @@
 import './App.css';
 import Navbar from './components/Navbar';
 import Intro from './components/Intro';
-import About from './components/About';
+
 
 import {Route,Routes} from "react-router-dom"
 import Project from './components/WorkCard';
